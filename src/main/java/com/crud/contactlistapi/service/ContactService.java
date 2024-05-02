@@ -1,7 +1,7 @@
 package com.crud.contactlistapi.service;
 
 import com.crud.contactlistapi.entity.Contact;
-import com.crud.contactlistapi.Controller.exception.ResourceNotFoundException;
+import com.crud.contactlistapi.controller.exception.ResourceNotFoundException;
 import com.crud.contactlistapi.repository.ContactRepository;
 import lombok.NonNull;
 import org.springframework.http.HttpStatus;
