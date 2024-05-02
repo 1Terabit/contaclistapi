@@ -1,4 +1,4 @@
-package com.crud.contactlistapi.Controller;
+package com.crud.contactlistapi.controller;
 
 import com.crud.contactlistapi.entity.Contact;
 import com.crud.contactlistapi.service.ContactService;
